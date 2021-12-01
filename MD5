@@ -1,12 +1,12 @@
-36bb0811f0c1334dd2c9aeda7ded704d *DESCRIPTION
+a0b1bdb3c7ee1d54f5a26bb8dd9b4c5a *DESCRIPTION
 d83a14a2b1436564acb31170545ed780 *NAMESPACE
 122b8bf67420215b0f4586911d330de7 *R/bctsne.R
 e0a12254d4798249bbb577a950b43647 *R/testCode.R
-ba4e364a63ebf4155cc2b7322ed2651d *build/vignette.rds
+71ad51e7fc94fc24e22d4b2c9144fa66 *build/vignette.rds
 2417c51a5b4f0ff7ae0cf281e38e1e5e *inst/CITATION
-85489318c70121e047389f39255900c5 *inst/doc/simExperiment.R
-f07061d156bff2e4725a45989be0d09a *inst/doc/simExperiment.Rnw
-ab0535a808bcb02090e839f0e159cf93 *inst/doc/simExperiment.pdf
+6b34e63493eacf5af3445d9a2fb4a5a4 *inst/doc/simExperiment.R
+d425f96d03878f386231d5ca1145d248 *inst/doc/simExperiment.Rnw
+9cc5b28440b843825a9c9586c595d0fa *inst/doc/simExperiment.pdf
 87ea863629d049cb9510555c9f8bac00 *inst/realDataAnalysis.R
 ad25da820f3d06d663cc6b3d9192cf1b *man/apat.Rd
 94dbc8fd52f4221981f75c201b7e0891 *man/bctsne.Rd
@@ -19,6 +19,6 @@ c6d82f050c38b5b8dae01c8212576a53 *man/ssx.Rd
 40e78f312dc78d4ff2102d613d363061 *src/Makevars
 40e78f312dc78d4ff2102d613d363061 *src/Makevars.win
 303865c0b7c570f0bb3e02dc5ca1f8bc *src/bcTSNE-init.c
-47567e708f5d70411f23abdfe45edb02 *src/tsne.c
+f79ceabd4af8a7828378b6155f3b7c6d *src/tsne.c
 5826efcc5d386cdced9b3398503b0ea5 *vignettes/simExperiment-concordance.tex
-f07061d156bff2e4725a45989be0d09a *vignettes/simExperiment.Rnw
+d425f96d03878f386231d5ca1145d248 *vignettes/simExperiment.Rnw
